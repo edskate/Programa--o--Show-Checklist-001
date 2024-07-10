@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: green;
+    text-shadow: 1px 2px 3px #0d3838;
+}
+ul{
+    background-color: rgb(255, 0, 0);
+    padding: 15px;
+    margin: 10px;
+    color: #f9ffff;
+    
+}
+li{
+    background-color: rgb(0, 255, 0);
+    padding: 5px;
+    margin: 5px;
+    color: #004000;
+    list-style: none;
+    display: inline;
+    border-radius: 5px;
+
+}
